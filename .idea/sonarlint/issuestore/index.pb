@@ -13,10 +13,6 @@ A
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 8
 Procfile,b\c\bc3c68e880d1a01632bce79f69dd1387c7ba9c54
-4
-.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
-9
-	local.env,4\3\439faa56cf903fc409df26f8474f030f3688135b
 z
 Jsrc/main/java/com/vuhien/application/controller/client/UserController.java,b\f\bf24e262ec80005896e9112b27083c6b86993ce2
 e
