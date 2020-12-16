@@ -1,9 +1,9 @@
 
-e
-java:S1192"LDefine a constant instead of duplicating this literal "###,###.###" 3 times.(”çÁÿÿÿÿÿ
-W
-java:S1155">Use isEmpty() to check whether the collection is empty or not.(°¿˜ãÿÿÿÿÿ
-O
-java:S1854"6Remove this useless assignment to local variable "df".(”çÁÿÿÿÿÿ
-@
-java:S1481"'Remove this unused "df" local variable.(”çÁÿÿÿÿÿ
+g
+java:S1192l"LDefine a constant instead of duplicating this literal "###,###.###" 3 times.(”çÁÿÿÿÿÿ
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(°¿˜ãÿÿÿÿÿ
+Q
+java:S1854l"6Remove this useless assignment to local variable "df".(”çÁÿÿÿÿÿ
+B
+java:S1481l"'Remove this unused "df" local variable.(”çÁÿÿÿÿÿ
