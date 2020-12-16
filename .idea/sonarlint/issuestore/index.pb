@@ -11,8 +11,6 @@ A
 system.properties,a\5\a5db35984da8ffa0e255c16a2e31ae7b26e7d222
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-8
-Procfile,b\c\bc3c68e880d1a01632bce79f69dd1387c7ba9c54
 z
 Jsrc/main/java/com/vuhien/application/controller/client/UserController.java,b\f\bf24e262ec80005896e9112b27083c6b86993ce2
 e
