@@ -1,4 +1,3 @@
-# Techmaster
 
 # 1. Tên ứng dụng
 
