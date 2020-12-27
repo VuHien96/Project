@@ -31,7 +31,7 @@ Xây dựng website bán quần áo thời trang.
 
 # 3. Hướng dẫn cài đặt và chạy trên môi trường phát triển
 
-- Clone repo: https://github.com/VuHien96/Techmaster_SmartOSC.git
+- Clone repo: https://github.com/VuHien96/Project
 - Cài đặt MySQL Workbench
 - Username: root
 - Password: 12345
