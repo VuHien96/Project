@@ -25,12 +25,6 @@ s
 Csrc/main/java/com/vuhien/application/repository/CartRepository.java,7\d\7d88978313853435a37827cb3a9710f3079ff92c
 w
 Gsrc/main/java/com/vuhien/application/repository/CategoryRepository.java,3\5\35b8d902af82f575c12dbe8b784dc9673ce661b1
-t
-Dsrc/main/java/com/vuhien/application/repository/ImageRepository.java,4\3\434fb751954ba2b1d554dfe5003326209f76a00e
-{
-Ksrc/main/java/com/vuhien/application/repository/OrderProductRepository.java,f\f\ff73eda8a8f1904996cb1a87b0d058a942813b8f
-t
-Dsrc/main/java/com/vuhien/application/repository/OrderRepository.java,2\7\27d9286577a9f6d5d61d2e70a6b864c5fb428ad1
 v
 Fsrc/main/java/com/vuhien/application/repository/ProductRepository.java,1\4\1469a814bdc7aa17fa1eb3fc655621f96336cb2a
 s
